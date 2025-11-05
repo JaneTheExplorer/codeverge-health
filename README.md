@@ -62,7 +62,7 @@ npm install
 3. Start the development server:
 npm run dev
 
-Then click Local: [http://localhost:8080/](http://localhost:3000/)
+Then click Local: [http://localhost:8080/](http://localhost:8080/)
 
 
 ## Codeverge Screenshot View
