@@ -77,6 +77,11 @@ Then click Local: http://localhost:8080/
 ![Our Services Screenshot](./screenshots/ourservices.png)
 ![Landing Page Screenshot](./screenshots/landingpage.png)
 
+##  Live Deployment
+
+Check out the deployed version on Netlify: [codevergehub.netlify.app]
+
+
 
 
 Developed by Jane Mugo, a full-stack developer focused on building robust, user-friendly web applications for real-world use.
