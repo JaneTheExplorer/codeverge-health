@@ -70,7 +70,7 @@ npm run dev
 
 
 ## Live Deployment
-Explore the live version on Netlify: [codevergehub.netlify.app](https://codevergehub.netlify.app)
+Explore the live version on Vercel: [codeverge-health-pyxa.vercel.app](https://codeverge-health-pyxa.vercel.app)
 
 
 
