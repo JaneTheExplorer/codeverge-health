@@ -51,7 +51,7 @@ npm install
 # Start the development server
 npm run dev
 
-Then click Local: http://localhost:8080/
+
 
 
 ## Codeverge Screenshot View
